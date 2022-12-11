@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Material",
-    "\\Seção 02",
-    "\\Seção 02\\01_Fim",
-    "\\Seção 02\\01_Fim\\MimicAPI"
+    "\\Seção 02\\01_Fim\\MimicAPI",
+    "\\Seção 04",
+    "\\Seção 04\\17_Inicio",
+    "\\Seção 04\\17_Inicio\\MimicAPI"
   ],
+  "SelectedNode": "\\Seção 04\\17_Inicio\\MimicAPI\\MimicAPI.sln",
   "PreviewInSolutionExplorer": false
 }
