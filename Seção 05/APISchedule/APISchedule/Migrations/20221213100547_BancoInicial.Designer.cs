@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace APISchedule.Migrations
 {
     [DbContext(typeof(ScheduleContext))]
-    [Migration("20221213092623_BancoInicial")]
+    [Migration("20221213100547_BancoInicial")]
     partial class BancoInicial
     {
         /// <inheritdoc />
